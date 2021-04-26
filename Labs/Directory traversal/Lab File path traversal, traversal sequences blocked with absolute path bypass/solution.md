@@ -1,0 +1,1 @@
+GET /image?filename=/etc/passwd 
