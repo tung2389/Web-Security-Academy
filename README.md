@@ -46,7 +46,7 @@ My solution for Labs at [Web Security Academy](https://portswigger.net/web-secur
 
 [Broken brute-force protection, multiple credentials per request](./Labs/Authentication/Password-based/Broken%20brute-force%20protection%2C%20multiple%20credentials%20per%20request/solution.md)
 
-### Multi-factor
+#### Multi-factor
 
 [2FA simple bypass](./Labs/Authentication/Multi-factor/2FA%20simple%20bypass/solution.md)
 
@@ -69,13 +69,12 @@ My solution for Labs at [Web Security Academy](https://portswigger.net/web-secur
 
 ### 4. Command Injection
 
-[OS command injection, simple case](./Labs/Command%20Injection/OS%20command%20injection%2C%20simple%20case/solution.md)
+[OS command injection, simple case](./Labs/Command%20injection/OS%20command%20injection%2C%20simple%20case/solution.md)
 
-[Blind OS command injection with time delays](./Labs/Command%20Injection/Blind%20OS%20command%20injection%20with%20time%20delays/solution.md)
+[Blind OS command injection with time delays](./Labs/Command%20injection/Blind%20OS%20command%20injection%20with%20time%20delays/solution.md)
 
-[Blind OS command injection with output redirection](./Labs/Command%20Injection/Blind%20OS%20command%20injection%20with%20output%20redirection/solution.md)
+[Blind OS command injection with output redirection](./Labs/Command%20injection/Blind%20OS%20command%20injection%20with%20output%20redirection/solution.md)
 
-[Blind OS command injection with out-of-band interaction](./Labs/Command%20Injection/Blind%20OS%20command%20injection%20with%20out-of-band%20interaction/solution.md)
+[Blind OS command injection with out-of-band interaction](./Labs/Command%20injection/Blind%20OS%20command%20injection%20with%20out-of-band%20interaction/solution.md)
 
-[Blind OS command injection with out-of-band data exfiltration](./Labs/Command%20Injection/Blind%20OS%20command%20injection%20with%20out-of-band%20data%20exfiltration/solution.md)
-
+[Blind OS command injection with out-of-band data exfiltration](./Labs/Command%20injection/Blind%20OS%20command%20injection%20with%20out-of-band%20data%20exfiltration/solution.md)
